@@ -25,9 +25,54 @@ Course Requirements and Grading
 
 Course requirements include regular attendance and participation in class, readings from the textbook, one case study, and the midterm and final examinations. There are no required problem sets. However, we provide optional problem sets and solutions in the form of the _MIT Sloan Finance Problems and Solutions Collection_, and the majority of the questions on the midterm and final examinations will be taken verbatim from this document. The following weighting scheme will be used to determine each student's course grade:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation | 10% |
-| Acid Rain case study write-up | 10% |
-| Midterm exam | 25% |
-| Final exam | 55%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Acid Rain case study write-up
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm exam
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+55%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
