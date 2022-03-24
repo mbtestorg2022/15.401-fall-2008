@@ -9,7 +9,7 @@ Due to popular demand by OCW users, Professor Lo compiled the following problem 
 Problem Sets 1–3
 ----------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Finance Theory I: Problem Sets 1–3 (PDF)]({{< baseurl >}}/resources/mit15_401f08_problem_sets)
+[Finance Theory I: Problem Sets 1–3 (PDF)]({{< baseurl >}}/resources/mit15_401f08_problem_sets)
 
 ### Contents
 
